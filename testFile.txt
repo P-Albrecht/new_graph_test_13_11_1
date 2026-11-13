@@ -1,0 +1,11 @@
+import { C2 } from './bridgeTest2.txt';
+
+let aaa ;
+class C1 (a , b , c ) {
+            function F1 ( fff ) { 
+                            }
+
+    }
+
+C1.F1(aaa);
+C2.F3();
